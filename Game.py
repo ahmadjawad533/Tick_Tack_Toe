@@ -230,3 +230,5 @@ root.protocol("WM_DELETE_WINDOW", on_close)
 
 update_score()
 root.mainloop()
+
+
